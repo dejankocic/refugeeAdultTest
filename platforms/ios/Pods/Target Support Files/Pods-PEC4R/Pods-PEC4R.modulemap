@@ -1,0 +1,6 @@
+framework module Pods_PEC4R {
+  umbrella header "Pods-PEC4R-umbrella.h"
+
+  export *
+  module * { export * }
+}
