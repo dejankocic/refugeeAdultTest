@@ -1,0 +1,27 @@
+
+
+{
+    "ios": {
+        "debug": {
+            "codeSignIdentity": "iPhone Developer",
+            "developmentTeam": "NJ35Y4Z3T4",
+            "packageType": "development"
+        },
+        "release": {
+            "codeSignIdentity": "iPhone Developer",
+            "developmentTeam": "NJ35Y4Z3T4",
+            "packageType": "app-store"
+        }
+    },
+
+    "android": {
+        "release": {
+            "keystore": "pec4r-key.keystore",
+            "storePassword": "NARHUMobileAppsKey",
+            "alias": "PEC4R",
+            "password" : "NARHUMobileAppsKey",
+            "keystoreType": "JKS"
+            }
+        }
+
+}
